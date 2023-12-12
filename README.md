@@ -1,4 +1,4 @@
-# Wordle Flutter Clone
+# Flutter Clone of the game Wordle
 
 Application made for the purpose of the subject Electronic and Mobile Business at the Faculty of Computer and Information Science at the University of Ljubljana.
 
